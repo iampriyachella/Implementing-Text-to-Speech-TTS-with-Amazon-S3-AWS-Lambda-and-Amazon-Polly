@@ -86,6 +86,16 @@ Upload an file aws.txt in aws-polly-source-bucket
 
 Step 6: Write Lambda Function Code
 
+I have attached that file as TextToSpeechFunction.py
+
+![Screenshot 2025-02-11 210404](https://github.com/user-attachments/assets/4bf3a571-7e62-48f6-a13f-552b3d62be26)
+
+Step 7: Test the System
+
+![Screenshot 2025-02-11 210606](https://github.com/user-attachments/assets/27fb8856-181e-43c2-9c9f-a2c3202497d5)
+
+![Screenshot 2025-02-11 212923](https://github.com/user-attachments/assets/8a59bbe5-44d3-459d-987b-56c7e8895ad4)
+
 
 
 
