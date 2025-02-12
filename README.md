@@ -84,7 +84,7 @@ Upload an file aws.txt in aws-polly-source-bucket
 ![Screenshot 2025-02-11 210338](https://github.com/user-attachments/assets/ae770cdd-2be6-4c24-9d6d-f777140dc1eb)
 
 
-Step 5: Configure S3 Event Notification
+Step 6: Write Lambda Function Code
 
 
 
