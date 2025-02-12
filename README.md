@@ -1,8 +1,6 @@
 # Implementing-Text-to-Speech-TTS-with-Amazon-S3-AWS-Lambda-and-Amazon-Polly
 Converting text files stored in an S3 bucket into speech using Amazon Polly and save the generated audio back to S3. 
 
-![Screenshot 2025-02-11 202619](https://github.com/user-attachments/assets/84064d3d-36aa-4a13-99ce-4cef91ca6460)
-
 Step 1: Create 2 buckets in S3
 
 ![Screenshot 2025-02-11 203106](https://github.com/user-attachments/assets/b0b1fb69-9518-4d3f-86d2-4d4097fad9d6)
